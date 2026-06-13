@@ -1,4 +1,4 @@
-## 100-Hires-Recruitment-Tasks
+# 100Hires — Assignment 1: Tool Setup
 
 This repository contains the setup and onboarding steps completed as part of the 100Hires application process.
 
