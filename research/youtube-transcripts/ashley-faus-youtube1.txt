@@ -1,0 +1,487 @@
+﻿Ashley Faus, Atlassian:
+Awesome, super excited to be here today. As Travis mentioned, I do have a couple of
+questions for you at the top of the presentation. I may or may not be able to see your answers,
+so we may be flying a little blind here, but it'll be fun. And then I'll answer questions at the end
+of the presentation. So let me share my screen here. Ashley Faus, Atlassian:
+Perfect. All right. Cool. So I want to start us out with a little bit
+of an odd question, but I think you guys will humor me. And that is, what is the best piece of playground
+equipment? So you can pop it in the chat. You can shout it out if you've got a dog or
+a roommate. Travis, if you want to participate or shout
+out some of the answers that you're seeing in the chat. Ashley Faus, Atlassian:
+Some slides. Awesome. Awesome. So what I'm hearing is that there is not really
+any consensus on the best piece of playground equipment right? Now you might be asking, why am I asking you
+about a playground when we're talking about content strategy? And I promise we're going to get there, but
+for now, let's pretend that you fell off the monkey bars, hit your head. And we're now in a place where we're talking
+about the linear funnel. I know. Rough playground experience, but I promise
+I'm going to bring it back around. So at its core, the linear funnel is three
+phases, awareness, consideration, and decision. And unfortunately, what a lot of teams do
+is they whip out their editorial calendar and they say, I'm going to do two pieces of
+content and awareness, two in consideration, two in decision, that's six pieces of content
+published once per month. I now have six months of content strategy. Now, I know most of you are shaking your heads
+and saying, It's way more complicated than that. And of course, you are correct. I give you the Google results for the linear
+funnel. We got quite a few things going on here. We've got eight stages in some cases. We've turned it on its side. It's kind of a mess. So what this tells us is that we need to evolve
+our model, which is what we've done. And so a lot of folks are using what we call
+the looping decision journey these days. And at its core, it's four phases, awareness,
+consideration, purchase, and then some sort of upsell, cross-sell, retention motion. For some reason, that just pops you right
+back into the same awareness phase of the funnel, but that's fine. So we're gonna add two additional pieces of
+content. That's now eight pieces of content published
+once per month. Now I have eight months of content strategy,
+right? Good job, marketer. And of course, you're all shaking your head
+saying, it's way more complicated than that. And of course, you are correct. This is the Google image results for the looping
+decision journey. And I got to tell you, the most terrifying
+one is down there for me in the bottom right corner. It's the Mobius. How many of you have ever been stuck in the
+infinite loop of sales and marketing content? So I decided that we needed a new model. And I got very excited because I thought I
+had solved it. And it's this piece of equipment, a jungle
+jam. You can kind of go. up and sideways. But the problem is there's really only two
+objectives with a jungle gym. It's to get to the top of the jungle gym or
+to go across without touching the hot lava below. Those of you with kids or nieces and nephews
+know what I mean by the hot lava below. And the problem with this is that it's still
+me as a marketer forcing you as an audience member to go on the journey that I want you
+to go on. And that brings us back to the playground. What's the right way to play on the playground? Is it to go slides and then swing and then
+merry-go-round? Is it to skip the merry-go-round altogether? And frequently when I ask this question in
+person, some sarcastic person will shout out that the park bench is their favorite piece
+of equipment. But for the people who sit on the park bench,
+are they using the playground in the wrong way? Of course not. And so if we think about this in the context
+of content strategy, we wanna treat the buyer's journey as a playground. People can enter and exit as they desire. They can go in any order and they can engage
+with content the wrong way. So what does it mean to engage with content
+the wrong way? Well, the playground designers want you to
+go down the slides. My six year old nephew wants to go up the
+slide. And so if we think about that in terms of
+the buyer's journey and marketing, let's talk about what our audience does, right? We've curated this perfect journey for them. They're supposed to go linearly, but what
+about something like pricing? Pricing is traditionally considered a bottom
+of funnel or purchase or decision level conversation. But recently, I decided that I was gonna buy
+a new tool to solve a problem. And my boss came to me and said, how much
+budget do you need? I said, I have no idea. So I start Googling around, I find the top
+players in the space, and I reach out and I say, can I get a rough estimate of the budget
+for this many licenses at this service level? And several of them replied to me, they said,
+oh, you need to download this white paper. Oh, you need to attend this demo. I don't even have budget and you're already
+trying to sell me something. So I finally managed to get an idea of the
+budget. I get the budget approved. I get on these calls. And as soon as I jump in, they start talking
+to me about how might we, why do we have this problem? What is the value of this problem? And I'm like, no, no, no, no, no. I'm already bought in. I believe in the problem. I believe a tool like yours can solve it. drop me all the way down into the bottom of
+the funnel and sell me your tool against a competitor. And for a lot of sales reps, they couldn't
+do it because they wanted me to go in this linear fashion. If I hadn't downloaded the white paper, they
+didn't know what to do with me. And so as we think about this as marketers,
+we realize that we have to create a smart, delightful, seamless journey for our audience. So how are we gonna do that? If we're not gonna align our content directly
+to linear funnel, What are we going to align it to to build the playground? So I want to talk through a narrative framework
+that's based on content depths. So at the conceptual depth, you're talking
+about the theoretical and philosophical ideas. It's the what and the why. And it helps your audience think about and
+understand the problem space. At the strategic depth, you're talking about
+the process, tools, and key knowledge components that must be in place to make that conceptual
+idea reality. So this is helping your audience think about
+and understand the solution space, the criteria for evaluating solutions, and allowing them
+to do their own research. And at the tactical depth, this is prescriptive,
+it's step-by-step instructions, and very specific exercises to help your audience implement
+the conceptual and strategic ideas. So what does this look like when we put it
+into a distribution framework? We have to think about our asset types. So it can be written, visual, audio, interactive
+content. It can be long form, short form, live, recorded. Again, the depths and the distribution are
+actually separate. We think about these things as different areas
+of the strategy. Next, which channels and platforms will we
+use? And this is your mix of paid, owned, and earned
+channels. and it can be a place to host content and
+a place to share content. So a lot of platforms like LinkedIn, for example,
+wants you to host your content and distribute your content in the same place. And finally, metrics. Reach versus engagement versus CTR. All assets and all channels do not need to
+accomplish all things at all times. So make sure that you're matching your metrics
+to the correct channel and platform and for the right asset. Something like view through rate doesn't actually
+make sense on a long form article. Once you've done that, you'll be able to fill
+out a table that looks something like this. So you'll have the topic that you're trying
+to cover, the depth that you're going to cover it at, what type of asset you'll use, and
+then where you'll potentially distribute it. And I recommend including a primary and secondary
+distribution channel or hosting platform. So maybe you say, I'm going to write a blog
+post and then I'm going to... post a carousel of that on LinkedIn with a link back to the
+blog post. So let's look at this in practice. What does it mean to be healthy and fit? So most people would agree it's some combination
+of diet and exercise, but you're going to answer that question very differently if you're
+runner's world versus muscle and fitness versus yoga journal. So I personally really enjoy bodybuilding
+style workouts. Let's pretend we're going to answer this question
+as if we're muscle and fitness. At the conceptual level, you'd say you're
+healthy and fit if you have a high protein diet and big, strong muscles. At the strategic level, you might talk about
+the value of compound lifts or why you need to have proper form or how to have proper
+form. And you might talk about fast digesting versus
+slow digesting protein or different sources of protein. And at the tactical level, this is your five
+chicken dinners to try this week or 10 tips to build bigger biceps. So let's take a look at some real world examples
+and how we do this with a couple of different tactics from a B2B marketing standpoint. So first, content pairing. So I love how Canva does this. They are holding the top search result for
+brochure design and you can see they've got the top sponsored ad and also the top organic
+result. And it says, free online brochure maker design
+a custom brochure. And then when you click into that, they give
+you an article that talks about the design elements that make a great brochure. And if you click that purple button, it drops
+you directly into the product, no email necessary, no credit card necessary, with guided templates
+to marry up the strategic elements of good design with the tactical elements of a template
+and your ability to drop these elements in. And the other thing I love about this is you
+don't actually have to put in an email address until you're ready to save your work. So you can try, you can learn, you can explore
+the product. with zero commitment. And then once you're ready, obviously, you
+can sign up for a free account. Next, in this example from Atlassian, we pair
+a mix of conceptual, strategic, and tactical elements in our Agile microsite. And we do that in a couple of different ways
+with different types of media. So at the conceptual level, we talk holistically
+about the Agile manifesto and the Agile movement. Strategically, we talk about some of the elements
+of Agile. And then tactically, we have templates and
+tutorials to help you implement agile practices and artifacts into your team. And so we've got long-form articles, and then
+we've also got short-form videos that are cross-linked to each other. So you can consume it quickly with a five-minute
+video, or you can go in depth with the articles. And then we've also paired this with some
+demo dens. So from a product standpoint, as we release
+features that are related to agile methodology and different types of artifacts and rituals,
+we have our product managers, engineers, and designers share a short video demoing the
+feature. And then we pair that with an ask me anything
+in our community. Now the thing I love about this is that it's
+actually the people who are creating and building the products. It's not marketers. So is it the most polished video? Is it the most energetic presentation? No, but it is presented by experts and we
+are able to pair those experts. both live and on demand so that folks can
+ask their questions and make that connection with the person who actually built the product. Another example of this is something we did
+when I was at Duarte. We paired some strategic content with some
+tactical content. So we were talking about why you need to use
+humor in presentations. And so we wrote a guide talking about the
+different elements and different types of humor that you could use to improve your presentation. Then we created an ebook on SlideShare with
+very specific examples of different types of comedians and speech writers implementing
+different types of humor. And then we cross-linked those. So you could pop up to understand how humor
+is useful in the presentation, or you could pop down to get very specific tips on how
+to add humor to your presentation. Next, let's talk about republishing content. So here's a couple of sites, LinkedIn, D-Zone,
+and syndication partners that are useful. So how do you do this? First, you compare the problem and solution. So you frame up the problem in one site and
+then you link to a piece that details the solution on another site. And I love how they did this at the Muse. So one of the editors wrote a short LinkedIn
+article talking about the experience of throwing a resume in the trash. And it turns out that that was an employee
+referral. And so the employee came and said, hey, my
+friend is perfect. Why did you discard their resume? So she digs it out of the trash, interviews
+the candidate, and ends up hiring them. And so she frames up this problem to say,
+what do you do to make sure that your resume doesn't go in the trash? And then she links to a guide that exists
+on the Muse talking about how to craft the perfect resume. Next, case studies and research. So you can frame up the problem of what it
+is and why it matters, and then you can cross-link to the solution of here's how we solved it,
+or the proof points. So we did this at Atlassian with our former
+head of balance and belonging. We actually ran a text survey across tech
+workers talking about the sentiment in DE and I across the industry. And so we talked about the methodology. We talked about the shape of the problem and
+we gave a very short summary of our findings. And then we linked over to a longer PDF with
+the details of the results. And then also some action items that we were
+taking and suggestions for actions that companies could take. to improve their DE and I results. And finally, you can just straight up republish
+content. So take an existing long-form piece of content,
+republish it on another site with a call-out and a link to the original piece. Now, there's some SEO implications here. You want to mark the original piece of content
+as the canonical link so that you ensure that it's not getting penalized by the algorithm. And we've done this quite a bit on DZone. So DZone is a great site if you're trying
+to reach a technical audience. We do a lot of marketing to developers. And so you can see here, we've taken this
+piece of content that was originally published on our DevOps microsite around DevOps monitoring. And you can see there in the orange box, it
+says published at DZone with the permission of Krishna Sai, who was one of the authors
+at Atlassian. And then there's a link to see the original
+article. And from a syndication standpoint, The Muse
+does this a lot. So I've written a number of articles on different
+topics around career and professional development for The Muse. And then they have syndication partnerships
+with places like Forbes and Time. And the nice thing about this is that it gives
+multiple different links and pieces of content for both the author, the receiving site, and
+the submitting site to be able to host. So you get more bang for the buck for each
+piece of content. And it's not just long form content that's
+changed, social has changed as well. So I love this example from Chewy. And this was actually sent on LinkedIn. And it says from this person, I recently made
+a support called a Chewy about a defective item. And the lovely support person could hear my
+newborn crying in the background and said, oh, you just had a child. And I said, yes. And she said, congratulations. And she actually sent a onesie and a book
+about my first pet along with the replacement pet food. And so he shares this on LinkedIn to say,
+this was an amazing brand experience. Thank you so much, Chewy. Now I gotta be honest guys, I feel a little
+weird sharing this example and it makes me a little sad because like, they have puppies. So they're at quite the advantage, right? I mean, if I had puppies on my side, I think
+I could provide an amazing customer experience as well. So can you do this as a boring B2B software
+brand? And I love this example from Atlassian, and
+it's the birth of a first child. And we've got a little bit of wonky animations
+going on here, so I can't show you the full example, but trust me, it exists if we send
+out a link afterwards. But this person on Twitter says, I'm doing
+some on-call work right now. New family team member on the way, and he
+links to a status page. Now, status page is an Atlassian product that
+helps you understand the uptime of your services. So for example, Sometimes you find that Netflix
+is down or the internet is down, right? Atlassian helps you understand why that might
+be happening. And so he actually was live documenting the
+birth of his child. And he had lots of puns about pull requests
+and push requests and deliveries and incident management. And so we actually reached out to him and
+sent him a swag code to be able to buy a onesie and told him that we were eagerly awaiting
+the arrival of our next DevOps engineer. And so this investment in the milestones for
+your audience. Yes, he happened to be using our product. And while we love to see that, he was doing
+it in the wrong way. But we wanted to amplify that. And we wanted to show him that that moment
+in his life that he invited us into was a place that we wanted to continue receiving
+invitations to join and that we were happy to bring a gift to the party. Ah, I did pull it out. Here you can see, we said, we're so welcome. Here's the update. And he said, thank you so much. Let's talk about events, right? We're finally back in person after the pandemic. And a lot of you were probably seeing some
+spam in your feed that says, visit booth one, two, three, visit booth one, two, three. Right. I am at this event. My company is at this event. You people should come visit me. The problem is that most of your social media
+followers are not at the event with you. And so it's awkward, right? You just spam your feed for three days and
+create all of this FOMO. So I actually love this thing that we did. It was for Polara, which is a cloud access
+security broker. Again, I come from a variety of hardcore SaaS
+and security companies. And so this is something we posted for our
+booth to unite the online and offline experience. And as a security company, we had a story
+to tell. So we placed an Amazon tap in a locked box
+with a bowl of what looked like identical keys. And if you drew the key out and it unlocked
+the box, you want to tap. Now, being that we were at a security conference,
+everyone was very skeptical that there were actually any working keys in the box. And so what we did is every time somebody
+won, we'd ask if we could take their picture, tweet it, and then we would tag them in the
+Twitter handle. And so we could literally tell people anytime
+they were skeptical, I'd say, no, go follow us on Twitter and you can see all of the people
+who have won. That was one way that we were able to bring
+that offline audience online. But how did we take the online audience into
+the offline experience? We created an ebook, both digital and physical,
+talking about security horror stories and how our product had helped people solve them. And so we posted that online for free. And so every so often, as we were sharing
+different elements from the event, we would share stories from that ebook. And then we were passing that event, that
+book out at the event, and it tied in directly with all of our booth graphics. And so as we scan the badge, we'd ask people,
+Hey, do you want to take this physical book or would you like us to send it to you in
+an email? And of course, most people were like, please
+send it to an email. In an email. I don't want to put this in my backpack and
+lug it around the event. And so our email rates from the follow-up
+of the event, had significantly higher open rates, significantly higher click through,
+and significantly higher outreach post email and post event because we had tied all of
+that together. And then finally, I love this example from
+Atlassian of us going online and empowering our PMs and our product marketers to engage
+directly with people. And so we had an update to our flagship product,
+Jira, and we started to put it out there where we were engaging personally. And it says, this person says, I like this
+trend of PMs directly answering some questions, direct accountability and direct feedback. Is this you answering on your own or is this
+an official thing at Atlassian? And you can see it's a mix. We've got someone, we've got Taylor in there
+talking from his personal handle. We've got the Ask Atlassian handle. And so we created this environment where you
+could have that one-to-one connection with people. Now, it's not scalable, and we did manage
+to change some sentiments, which brings us to measurement, right? We're gonna do all of these things, and a
+lot of them are very high touch. So how the heck do we measure this stuff? Now, most people are... obsessed with the
+click-through rate. How many people got referred to the blog from
+LinkedIn? How many people clicked through on this email? CTR CTR CTR. The problem here is that platforms are greedy
+and people are lazy. The platforms wanna keep you on the platform. LinkedIn doesn't want you to leave LinkedIn. Instagram doesn't want you to leave Instagram. And as a viewer, I wanna get value right where
+I am. I'm already hanging out in the feed. I don't want to go over to this random place
+that you own when I don't know what I'm going to land on. So instead, we want to think holistically
+about our measurement. So here's a few things that we've a nice little
+acrimony called VBOSS. And these are some things that you can measure
+across different channels and different asset types. So for video, things like YouTube views and
+subscriber growth, and then of course, entrances and referral traffic. Brand paid search. So how are you showing up in those sponsored
+spots? If people search for your brand name, are
+you capturing those competitive keywords? Organic traffic, everyone knows this one. This is your traditional entrances for owned
+properties. And then for unpaid social, looking at follower
+growth, in-feed engagement, so the likes, the quality of the comments, the retweets,
+the shares, and really looking at each of those channels holistically. So I want to show you a real world example
+of kind of this omni-channel playground approach. So we had a situation where there were some
+release notes that went out for one of our products, and it caused a bit of a stir in
+the Agile community. It was talking about decimal points in estimation. And if you are in the Agile community, you
+know that is kind of a no-no, but people are still doing it. And so we have that ability in our products
+because our customers have asked for it. But we also have a very opinionated approach
+about story points and estimation. And so it caused quite the kerfuffle. And so we decided that we would reach out
+to a bunch of industry experts and host a round table. And so we reached out to them, we hosted this
+round table, and then we posted that as a full hour long conversation on YouTube. We then trimmed it up into different snippets
+for each of the speakers to share on their personal LinkedIn profiles. We also embedded it back into the long form
+article so you can see if you're new to this conversation. Here's generally the history and evolution
+and some best practices. And oh, by the way, here's a current conversation
+about where some of those best practices go wrong. And then we cross linked all of that. So whether you come to us from YouTube, whether
+you land on it from SEO, in organic search, whether you're connected to someone like one
+of the influencers we spoke with on LinkedIn, you have the ability to go up to the conceptual
+level about what is this and why does it matter, the ability to go down to the tactical current
+conversation. And you'll notice that none of that has anything
+to do with awareness, consideration, decision, and purchase. So I love this quote from Jay Akunzo. He says, marketing is no longer about grabbing
+attention. It's all about holding it. Today's best marketers understand. Marketing isn't about who arrives, it's about
+who stays. So I wanna close with one final example. And again, this is a little bit of an oddity
+from a marketing standpoint, but it's the city of Vienna. And so they ran a travel campaign that said,
+enjoy Vienna, not hashtag Vienna. They wanted you to come and be in person and
+present in the moment. And so they specifically didn't want you to
+share impressions and hashtags and pictures all over social media. So what did they do? They curated a microsite with different types
+of experiences around food, around architecture, and around nature. And then they said, come to our visitor center
+and pick up an Instamax camera and take 10 photos of your vacation. You can print them out as little Polaroids
+immediately. Can you imagine only taking 10 photos on an
+international vacation? That's crazy, right? And then they actually ran campaigns in some
+of the biggest digital hubs in New York and Silicon Valley, specifically saying, come
+to Vienna, spend time with us, be present, enjoy those moments and don't talk about it
+with everybody else. Just be here. So how the heck would you measure something
+like that? Well, you can measure the uptick in visa requests. You could measure the traffic or the requests
+for the Instamax camera. You could talk to the businesses that were
+featured on the microsite and ask them about foot traffic or revenue uplift. And so that's where you start to marry up
+that emotional connection, that delight, and that seamless journey that you've provided
+to the audience with those business impact metrics. So when I talk about the playground, I get
+this question all the time. What's the ideal customer journey? And in the past, the goal was to rush you
+through as few touch points as possible to hustle you up to a purchase. But today's best marketers know that actually,
+the ideal customer journey is about seamless handoffs and an endless journey that allows
+the audience to chart their own path. Right, the playground entertains children
+for hours with the exact same equipment. What if we as marketers could create journeys
+that were so smart and so delightful that our audience would choose to stay and explore? So the tenets of building that playground,
+first, delight your audience. Focus on creating that quality content that
+engages at each touch point. Next, build the relationship. The long-term affinity for the brand is more
+important than driving a transactional landing page conversion. So my controversial statement on this is you
+don't need to gate so much of your content. Right? Don't put up gates and huge fences around
+your playground. Allow people to come explore and play. And finally, influence at every touch point. So all content can be considered top of funnel
+content at this point. It's no longer about rushing people to a purchase. It's about educating and empowering for success. So when you are ready to build that playground,
+I would love to tell you how Jira, Confluence, and Trello can help you do just that. And I will stop sharing my screen and open
+it up for questions. Travis:
+Awesome, that was great. Thanks Ashley. We do have a couple of questions that I've
+rolled in too. So we can kind of jump straight into those. Ashley Faus, Atlassian:
+Sure. Travis:
+Mitch has sent over a couple. I think the first one is, any key frameworks
+for in-app content strategies? Ashley Faus, Atlassian:
+Yeah, so in-app content strategies, I think those are interesting because what a lot of
+people do is they have pop-ups, especially in the onboarding phase, and it's like, this
+feature, this feature, this feature, this feature, and I'm like, can I just close all
+of this and see if I can figure it out by myself? So I think when you're thinking about that
+in-app strategy, you do need to think about the stage, and you also need to think about
+whether you're interrupting the experience or whether you've incorporated it into the
+experience. So I actually love the little help. or little icons next to it that say info or
+have a question mark. And so that way, instead of me constantly
+pushing what I think you need to know, I've made it obvious to where you can just hover
+over that info button or hover over that question button and get a short snippet of, you know,
+whatever this thing might be. And then I'd love to have a link there that
+says, you know, learn more, read the article, visit support, watch a video, whatever the
+thing is. So any way that you can make it obvious to
+the person that... they can choose to get more information versus
+constantly pushing and popping it up. That would be something that I think works
+really well for in-app strategy. Travis:
+I like that. Yeah, I definitely prefer that as a user too. You just kind of skip through all of them
+really fast. Ashley Faus, Atlassian:
+I'm so bad, I skip through all of it and then I'm like, why can't I do this? And it's like, Travis:
+Yeah. Ashley Faus, Atlassian:
+didn't you go through the onboarding? And I'm like, no, your product should just
+be easy enough for me to use that I don't need the onboarding. And then I'm like, okay, I should go through
+the onboarding. So Travis:
+Yes, Ashley Faus, Atlassian:
+I feel like Travis:
+so Ashley Faus, Atlassian:
+there's Travis:
+guilty. Ashley Faus, Atlassian:
+a lot of users who do that. Travis:
+And then any B2B general content tips, perhaps for like less specific flagship products in
+companies like Alassian? Ashley Faus, Atlassian:
+Sure, so I tried to give a few in there. So for example, Polara, that example I gave
+of the Cloud Access Security Broker, this was a startup, it actually got acquired. We were around 70 people when we got acquired. So the content person was me. The events person was me. We had a demand in person, but pretty much
+all of that was me. So I think from a general standpoint, choosing
+one to two channels to start and invest in at the beginning, I would say pick one owned
+channel and one. distribution or, you know, earned channel. In our case, LinkedIn is a great place for
+us to do that. And having microsites or blogs is a great
+place to do that. So, and then I would also say pick a short
+form and a long form piece of content or style asset type to invest in. So unfortunately what a lot of teams do, especially
+if they're small, they say we're gonna do a podcast and a YouTube video and LinkedIn
+and Twitter and Instagram and a blog. And I'm like. how are you gonna do all of that stuff? And Ashley Faus, Atlassian:
+then they wanna have sales enablement. Now, we want a resource library that's 50
+pieces. And I'm just like, guys, that is a lot of
+content and you are a small team. So I would suggest investing in one owned
+and one kind of owned or social channel first, and then one long form asset type, one short
+form asset type. Find out where... those are working, get your process flows
+in place for those first, instead of trying to scatter shot and do a carousel and a video
+and a podcast and TikTok and, and, and, right? You don't need to be everywhere all the time. You need to be where your audience is. And so that audience research piece is very
+important. I think a lot of people spend too much time
+trying to rabbit hole on how they can sneak their product in, right? You're not tricking anyone into buying. You're not going to bait and switch them with
+like, read this article, boom, 50,000 software purchase. It's like, it's not going to be a $50,000
+purchase off a blog post, guys. So spend that time doing the audience research
+and then hone in on those specific assets and channels to test. And then you can start to iterate or expand
+once you've got more process in place for that. Travis:
+Nice, yeah, that kind of answers the next question we got to around scaling it for like
+a small team, kind of starting small and Ashley Faus, Atlassian:
+Yeah. Travis:
+expanding from there. Makes a lot of sense. And then any tools that you use for simplifying
+the repurposing of content, you kind of had that framework of going in a lot of different
+places. How do you kind of do that? Ashley Faus, Atlassian:
+Sure. So there's a couple of tools. I really love Canva and honestly, I use Keynote
+and PowerPoint to do a lot of basic design work. So what I would actually say about that from
+the mindset shift of considering repurposing in the beginning, it's not an afterthought. So what a lot of people do is they'll start
+and they'll say, I'm gonna create this type of content, this asset for this channel, and
+then I'm gonna repurpose it. Geez, how am I gonna do that? Instead, think about where else this is gonna
+go. So I'll give an example actually from my own
+work, this presentation. If you noticed, each of those chunks can pretty
+succinctly be set up as their own thing. So the fitness example of conceptual, strategic
+and tactical depth content, I've pulled those slides out separately. All I do is just hit copy, duplicate the file,
+delete everything. And then I add one big piece at the beginning
+that says, how should we align our content or how should we... We're not gonna use the linear funnel. How should we do content? Or what are content depths? And why are they better than the linear funnel? And I'll put that at the beginning. Those are like three different ways I framed
+this up. It's the same set of slides, and then I can
+just swap through different pieces of copy. And so in the LinkedIn post, I'll post that
+as a carousel, and then I'll switch up the copy. And if you look through my LinkedIn, you'll
+see that I've reused a bunch of my presentation slides as carousels in the beginning, and
+then I've used the same carousel multiple times. but then I switch up the copy to be different
+angles. And that works well for podcasts. So if I am on a podcast and I'm trying to
+promote a podcast, I'll pull out one story from the podcast. And then I have the ability to say, go look
+at the podcast, go look at the link, et cetera. So if you think about that ahead of time,
+especially with presentations, put your presentations in a way that you can actually chunk those
+slides out. The other thing I'll say is that, I love Rev.com
+to be able to generate transcripts. And I see somebody has a comment in there
+about AI. The big use case I'm excited to try for AI
+is actually like, cool, feed this blog post into chat GPT and have it spit out a summary
+of three key takeaways, have it spit out five LinkedIn posts, and then you can go and ask
+that. So I think the biggest thing is just thinking
+about the repurposing in the beginning and structuring your content in a way that you
+could pull out different chunks. I did this actually recently with an article.
+wrote a long form article on LinkedIn. People ask me all the time how I get speaking
+engagements and so I ran through the whole thing with a bunch of tips and now each section
+I could pull that out as LinkedIn copy or I could pull that out as a separate video
+to say, what does it mean to create a good abstract or a good title? And then I have the ability to link back to
+that full article to say, get more tips on how to secure speaking engagements. Travis:
+Oh, that's really solid. This might be the last question. I heard you mention it multiple times about
+the presentation in your career, like using and leveraging microsites. Can you explain kind of the strategy behind
+that? If I, how you implement it. Ashley Faus, Atlassian:
+Sure. So the big thing about microsites, from my
+perspective, is that they need to be heavily cross-linked to everything else, and they
+actually don't need to be a standalone. So we see a lot of orphan microsites. This is something we've actually dealt with
+at Atlassian as we've grown. We used to have a strategy where we had one
+microsite tied to one product. So in the example I gave in the presentation
+of Agile, the Agile microsite was very, you know, almost exclusively paired with Jira
+software. As we've grown and we've added more products
+and we've added more topics and more audiences, we had all these microsites just popping up
+all over the internet and they were standalone, they didn't have shared navigation. The only way to get anywhere else on the site
+was through cross-linking. So what we've actually started to do is consolidate
+those around specific topics. And in our case, we're tying that back to
+the bigger business strategy, which is a move towards solutions. So in my case, I work in the Agilent DevOps
+space. So we now have a hub where we've combined
+all of these smaller microsites, talking about DevOps, continuous delivery, microservices,
+agile methodology, et cetera, into a single resource hub where you have the long form
+articles that are evergreen that talk about the practices. You've got a mix of tutorials and interactive
+guides that unite the practices with the products. And then we also have some blog spaces. Again, this is an ongoing evolution. We've got some blog spaces. to get more of those topical, again, the StoryPoints
+example where it's like, this is a very topical, trendy thing. And we're talking with experts about what
+this means right now. We're in the process of building similar hubs
+for our work management segment, which is really focused on different types of business
+teams. And so that's a place where you might learn
+about, you know, how to build an editorial content calendar or how to run your content
+workflows, again, relevant to this audience. Who are the teams? How do you use different products and templates
+to document your strategy, to document the workflows, to share your progress and the
+metrics that you're monitoring and why you're monitoring those. So that would be my, again, Travis:
+Hmm. Ashley Faus, Atlassian:
+that start small. That's fine if you want to start with one
+microsite, but make sure you're building it in a way that you can scale it. Another quick tip on that that works both
+for short form videos and for articles, but I see a lot of people get very ambitious with
+a series. We're gonna launch this whole microsite and
+we're gonna do a five part series. And they'll launch the first article and they'll
+title it part one, Travis:
+I'm Ashley Faus, Atlassian:
+you know, Travis:
+sorry. Ashley Faus, Atlassian:
+title, or they'll just title it part one. And they'll go on and on in the future, in
+the next, you know, article in the series. Once we finish the next video and I'm like,
+okay, do you actually have all of those assets created yet? And usually the answer is no. Just don't say that. Just don't call it a series until you have
+all of the articles. Just don't say in the video, In this video
+series, we're going to talk about X. No, just say, today we're talking about this
+topic. If you're unfamiliar with it, here's a short
+definition. And then in the next video, you're able to
+say, if you're unfamiliar with this topic, take a look at the link in the comments to
+read an article or to understand more. And then that gives you the ability to swap
+things out. It's the same thing for the microsites. Don't launch it. It's like, this is a standalone microsite
+that only talks Travis:
+Yeah. Ashley Faus, Atlassian:
+about this one thing. Expand the horizon a little bit and say, you
+know, The purpose of this hub is to discuss practices in this space or tutorials or whatever,
+holistically, the thing is about. Travis:
+Nice. Again, that's really good framing for that. And we actually had two more questions roll
+in. Another one from Mitch, but what do you think
+users are looking for in terms of the future of content, perhaps more expert driven, video
+driven, et cetera. Ashley Faus, Atlassian:
+Yeah. I think in the age of AI, you're going to
+see a lot more people being very specific about who the content is coming from. So I do think expert driven. I think that continuing to have a variety
+of different content types. Some people love to read so they can skim. And I see this from Carolyn about accessibility. So for example, in video content, having closed
+captions and then also including the transcript. for those who might be visually or hearing
+impaired, is a great way to expand the accessibility. That's also great from a business perspective,
+from an SEO standpoint, that transcript, especially if you go in and put in some H2s, that can
+act as a guidepost both for the humans and for Google. But I actually think to the question at hand
+of the future, you're going to see a lot more one-to-one and trust. I highly recommend taking a look at the Edelman
+Trust Barometer. It's a longitudinal study. They produce this report. They've, I think, sent it every year for the
+last decade or so. And what we see is that trust in institutions
+is declining. So people don't trust traditional press. They don't trust the government. They don't even trust religious leaders. They trust people like themselves. They trust my CEO or my business leader. And they trust my community, right? So people that they've had a personal experience
+with. And so personal branding, that influencer,
+that subject matter expert credibility, I think that's gonna be the key because it's
+so much easier to just turn out more and more content, that in order for that content to
+actually be valuable, it has to have that unique human element. So do I know you, do I trust you, and was
+an actual human with actual experience who's actually done this stuff, who is that person
+that's sharing, not just generically? we've got this content. Like if you look at the collaborative articles
+that LinkedIn has started, the questions are so basic. It's like, do you want to rank in the top
+search results for SEO? Yes, here's how to rank in the top SEO search
+results. And I'm just like, this is, what is this,
+right? Versus when a human talks about content strategy
+or something like that, again, all the examples in my presentation, 90% of them are things
+that I've personally been involved with. And so if you really want to nerd out about
+that example of AWS reinvent when we did Polaroid, we did that thing, I got stories for you. Right? And it's that sense where anyone can take
+that event example, you could steal that. But the actual stories on the ground and how
+we connected that activation to the company story, that's something that only I, as a
+human can tell you, right? Only I could write that article or make that
+video about that example. Travis:
+Awesome. Awesome. Yeah, Mitch jokingly asked, how do we know
+how we know you're not AI? Ashley Faus, Atlassian:
+How do we, I know, right? I, that's a valid question. I don't, there are some good deep fakes out
+there with video. I don't know, I don't know, Travis, like what's Travis:
+Yes. Ashley Faus, Atlassian:
+the, it's like the Turing test in Blade Runner. You know, Travis:
+Yes. Ashley Faus, Atlassian:
+you ask the machine, are you a machine? And Ashley Faus, Atlassian:
+what if the machine doesn't know? I don't know, guys. Travis:
+scary world. Awesome, but thank you so much Ashley. That was a fantastic webinar. And I probably will rewatch it a couple more
+times and get some good questions. And you went really deep. So I appreciate your time today. And everybody Ashley Faus, Atlassian:
+Good. Travis:
+I'll drop in her Twitter, give her a follow and a shout and appreciate her. Give her a thank you for attending today. And Ashley, any more, anything you wanna leave
+with before we get back to the time. Ashley Faus, Atlassian:
+I feel you Carolyn. I mean, again, for me it's like 9.45 in the
+morning. So I'm starting off with the existential crisis. Ashley Faus, Atlassian:
+But no, I think I would just say, I would love if you have any feedback on kind of the
+framework, the mindset shift to the content playground. I'd love to hear how it resonated and how
+you might implement that into your strategy. So thanks so much for having me Travis.
